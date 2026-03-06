@@ -30,9 +30,13 @@ Here are my current projects:
 
 ---
 
+
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NigahZahra512&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NigahZahra512&layout=compact&theme=radical)
 
 ---
 
