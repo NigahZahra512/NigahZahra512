@@ -4,7 +4,8 @@
 🌱 Learning Artificial Intelligence & Machine Learning  
 💬 Ask me about Python, C++, AI, or ML  
 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/nigah-ali-zahra-naqvi-a4a09433a)
-
+- 📧 Email: nigahzahra889@gmail.com
+  
 ---
 
 
