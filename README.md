@@ -30,7 +30,7 @@ Here are my current projects:
 
 - **[Portfolio Website](https://github.com/NigahZahra512/portfolio-website)** – My personal portfolio built using HTML, CSS & JavaScript.  
 - **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.
-- - **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.
+-  **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.
 
 > More projects coming soon! 🚀
 
