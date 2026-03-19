@@ -27,12 +27,13 @@
 
 Here are my current projects:
 
-- **[Portfolio Website](https://github.com/NigahZahra512/portfolio-website)** – My personal portfolio built using HTML, CSS & JavaScript.  
-- **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.  
-- **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.
 - **[Web Scraping Books](https://github.com/NigahZahra512/web-scraping-books)** – Python & BeautifulSoup project to scrape book details from websites and save data into CSV. Includes scraper script and example outputs.
+- **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.
+- **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.
+- **[Portfolio Website](https://github.com/NigahZahra512/portfolio-website)** – My personal portfolio built using HTML, CSS & JavaScript.
 
 > More projects coming soon! 🚀
+
 
 
 ---
