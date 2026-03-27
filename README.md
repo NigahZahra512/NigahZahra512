@@ -8,7 +8,6 @@
   
 ---
 
-
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -21,24 +20,24 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-
 ---
+
 ## 📂 Projects
 
 Here are my current projects:
 
-- **[Web Scraping Books](https://github.com/NigahZahra512/web-scraping-books)** – Python & BeautifulSoup project to scrape book details from websites and save data into CSV. Includes scraper script and example outputs.
-- **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.
-- **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.
-- **[Portfolio Website](https://github.com/NigahZahra512/portfolio-website)** – My personal portfolio built using HTML, CSS & JavaScript.
+- **[Chatbox System](https://github.com/NigahZahra512/Chatbox-System-Python)** – Python project for a chatbox system with message handling and interactive features.  
+  ![Chatbox Preview](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+  ![Python Badge](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=white)
+
+- **[Web Scraping Books](https://github.com/NigahZahra512/web-scraping-books)** – Python & BeautifulSoup project to scrape book details from websites and save data into CSV. Includes scraper script and example outputs.  
+- **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.  
+- **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.  
+- **[Portfolio Website](https://github.com/NigahZahra512/portfolio-website)** – My personal portfolio built using HTML, CSS & JavaScript.  
 
 > More projects coming soon! 🚀
 
-
-
 ---
-
-
 
 ## 📈 GitHub Stats
 
