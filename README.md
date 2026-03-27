@@ -27,9 +27,6 @@
 Here are my current projects:
 
 - **[Chatbox System](https://github.com/NigahZahra512/Chatbox-System-Python)** – Python project for a chatbox system with message handling and interactive features.  
-  ![Chatbox Preview](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-  ![Python Badge](https://img.shields.io/badge/Python-100000?style=flat&logo=python&logoColor=white)
-
 - **[Web Scraping Books](https://github.com/NigahZahra512/web-scraping-books)** – Python & BeautifulSoup project to scrape book details from websites and save data into CSV. Includes scraper script and example outputs.  
 - **[EduSphere Student Portal](https://github.com/NigahZahra512/EduSphere-Student-Portal)** – A Python & Streamlit project to manage student data with login, grade calculation, and search functionality.  
 - **[Web Dev mini project](https://github.com/NigahZahra512/Web_Dev_mini_project)** – A mini web development project showcasing front-end skills.  
