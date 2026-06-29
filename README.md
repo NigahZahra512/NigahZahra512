@@ -34,7 +34,7 @@ Here are my current projects:
 ---
 ## 🎯 Learning & Goals
 - Deepening my knowledge in **AI & ML**, with a current focus on **Agentic AI** (AI systems that can use tools to take real-world actions)  
-- Building more projects in **Python, C++ & Web Development**  
+- Building more projects in **Python, C++ & Agentic AI**  
 - Contributing to **Open Source projects**  
 ---
 ✨ Fun fact: I love coding, learning new technologies, and exploring AI innovations!
